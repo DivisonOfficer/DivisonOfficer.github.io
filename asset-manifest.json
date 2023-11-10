@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.20be6415.js",
+    "main.js": "/static/js/main.99fd0db3.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/hackertone_2021.jpeg": "/static/media/hackertone_2021.83e5c44728b8622e2e04.jpeg",
     "static/media/hackertone_2019.jpeg": "/static/media/hackertone_2019.bf0be9b2659f1f9fbf05.jpeg",
@@ -12,11 +12,11 @@
     "static/media/bearrobotics.jpeg": "/static/media/bearrobotics.797f830cad63e7d84081.jpeg",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.20be6415.js.map": "/static/js/main.20be6415.js.map",
+    "main.99fd0db3.js.map": "/static/js/main.99fd0db3.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.20be6415.js"
+    "static/js/main.99fd0db3.js"
   ]
 }
